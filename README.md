@@ -2,7 +2,6 @@
 
 > This is a Calculator application built with react.js.
 
-![screenshot](./src/img/calc.PNG)
 
 It utilizes reacts Class components to function and implement its various features.
 
