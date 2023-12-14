@@ -25,18 +25,7 @@ It utilizes reacts Class components to function and implement its various featur
 
 - JSX
 
-## Live Demo
 
-[Live Demo Link](https://calcufast.netlify.app/)
-
-### Development (Running locally)
-
-- Clone the project
-
-```bash
-git clone https://github.com/user/html-css-template.git
-
-```
 
 - Install Dependencies
 
@@ -74,35 +63,7 @@ You can also check against HTML Validator:
 npm run html-validator
 ```
 
-## Style Guides
 
-- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-- [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-- [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
 
-- Github: [@Lanr3waju]<https://github.com/Lanr3waju>)
-- LinkedIn: [@Abass Olanrewaju](https://www.linkedin.com/in/abass-olanrewaju-abdul-wasi-53883422a/)
-- Twitter: [@abdul-wasi-img](https://twitter.com/abdul_wasi_img)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- I appreciate the efforts of my mentors for their constatnt guidance and contribtution.
-- [@bolah2009](http://github.com/bolah2009)
-- [@adejam](https://github.com/adejam)
-
-## 📝 License
-
-[MIT licensed](./LICENSE).
